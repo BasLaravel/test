@@ -18,7 +18,7 @@
     </head>
     <body>
 
-    <h1>Hal</h1>
+    <h1>Hallo van daar</h1>
 <div class="container">
     <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="/images/attractions.jpg" alt="Card image cap">
